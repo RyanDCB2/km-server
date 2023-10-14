@@ -11,7 +11,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	centufowl: {
 		num: 2.1,
 		name: "Centufowl",
-		types: ["Normal", "Grass"],
+		types: ["Electric", "Grass"],
 		baseStats: {hp: 75, atk: 115, def: 115, spa: 55, spd: 75, spe: 75},
 		abilities: {0: "Queenly Majesty", 1: "Merciless", H: "Grassy Surge"},
 		height: 150,
